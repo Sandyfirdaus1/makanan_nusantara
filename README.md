@@ -1,7 +1,5 @@
 # Rasa Nusantara 🍲
 
-![Preview Rasa Nusantara](./34321b5c-a86c-4582-ad82-61706bc59eed.png)
-
 **Rasa Nusantara** adalah website kuliner yang menghadirkan berbagai makanan khas Indonesia lengkap dengan deskripsi dan gambar menarik.  
 Dibangun menggunakan **React + Vite** dengan styling modern dari **Tailwind CSS**, website ini dirancang agar cepat, responsif, dan nyaman digunakan.
 
