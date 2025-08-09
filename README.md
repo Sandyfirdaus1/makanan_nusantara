@@ -11,6 +11,9 @@
 **Halaman Checkout**
 ![Checkout](./food_indo/src/assets/Cekout.PNG)
 
+**Halaman Pembayaran**
+![CPembayaran](./food_indo/src/assets/Pemabayaran.PNG)
+
 
 **Rasa Nusantara** adalah website kuliner yang menghadirkan berbagai makanan khas Indonesia lengkap dengan deskripsi dan gambar menarik.  
 Dibangun menggunakan **React + Vite** dengan styling modern dari **Tailwind CSS**, website ini dirancang agar cepat, responsif, dan nyaman digunakan.
