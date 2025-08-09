@@ -38,7 +38,7 @@ npm install
 
 # Jalankan development server
 npm run dev
-```bash
+```
 
 ---
 
