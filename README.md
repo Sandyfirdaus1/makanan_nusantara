@@ -12,7 +12,7 @@
 ![Checkout](./food_indo/src/assets/Cekout.PNG)
 
 **Halaman Pembayaran**
-![CPembayaran](./food_indo/src/assets/Pemabayaran.PNG)
+![Pembayaran](./food_indo/src/assets/Pembayaran.PNG)
 
 
 **Rasa Nusantara** adalah website kuliner yang menghadirkan berbagai makanan khas Indonesia lengkap dengan deskripsi dan gambar menarik.  
