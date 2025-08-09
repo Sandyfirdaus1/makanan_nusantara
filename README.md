@@ -1,20 +1,5 @@
 # Rasa Nusantara 🍲
 
-## 📸 Preview
-
-**Halaman Home**
-![Home](./food_indo/src/assets/Home.PNG)
-
-**Halaman Menu**
-![Menu](./food_indo/src/assets/Menu.PNG)
-
-**Halaman Checkout**
-![Checkout](./food_indo/src/assets/Cekout.PNG)
-
-**Halaman Pembayaran**
-![Pembayaran](./food_indo/src/assets/Pembayaran.PNG)
-
-
 **Rasa Nusantara** adalah website kuliner yang menghadirkan berbagai makanan khas Indonesia lengkap dengan deskripsi dan gambar menarik.  
 Dibangun menggunakan **React + Vite** dengan styling modern dari **Tailwind CSS**, website ini dirancang agar cepat, responsif, dan nyaman digunakan.
 
@@ -53,3 +38,20 @@ npm install
 
 # Jalankan development server
 npm run dev
+
+
+
+
+## 📸 Preview
+
+**Halaman Home**
+![Home](./food_indo/src/assets/Home.PNG)
+
+**Halaman Menu**
+![Menu](./food_indo/src/assets/Menu.PNG)
+
+**Halaman Checkout**
+![Checkout](./food_indo/src/assets/Cekout.PNG)
+
+**Halaman Pembayaran**
+![Pembayaran](./food_indo/src/assets/Pembayaran.PNG)
