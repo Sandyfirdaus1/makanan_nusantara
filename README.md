@@ -28,7 +28,7 @@ Memperkenalkan kekayaan kuliner nusantara melalui website modern yang interaktif
 ## 🚀 Cara Menjalankan Project
 ```bash
 # Clone repository
-git clone https://github.com/username/rasa-nusantara.git
+git clone https://github.com/Sandyfirdaus1/rasa-nusantara.git
 
 # Masuk ke folder project
 cd food-indo
