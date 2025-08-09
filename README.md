@@ -31,7 +31,7 @@ Memperkenalkan kekayaan kuliner nusantara melalui website modern yang interaktif
 git clone https://github.com/username/rasa-nusantara.git
 
 # Masuk ke folder project
-cd rasa-nusantara
+cd food-indo
 
 # Install dependencies
 npm install
